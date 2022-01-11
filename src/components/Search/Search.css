@@ -1,0 +1,21 @@
+.search_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search_box input {
+  border: 1px solid #ccc;
+  max-width: 500px;
+  width: 100%;
+  padding: 10px 20px;
+  margin: 20px;
+}
+
+.search_box button {
+  border: 0;
+  padding: 10px 30px;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(62, 62, 235);
+}

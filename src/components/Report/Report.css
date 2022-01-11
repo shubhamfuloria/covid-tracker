@@ -1,0 +1,21 @@
+.report_card {
+  max-width: 300px;
+  margin: 0 auto;
+  background-color: #aeaefc;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.report_card h1 {
+  color: #000;
+  margin: 0;
+  text-align: center;
+}
+
+.report_card div {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+}
